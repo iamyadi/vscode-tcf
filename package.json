@@ -1,0 +1,28 @@
+{
+    "name": "tcf",
+    "displayName": "trycatchfinally",
+    "description": "for javascript try catch and finally snippets",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "author": {
+		"name": "yanni"
+	},
+    "publisher": "yanni",
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

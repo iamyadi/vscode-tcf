@@ -1,0 +1,26 @@
+{
+	"trycatchfianlly": {
+		"prefix": "tcf",
+		"body": [
+			"try{",
+            "\t",
+			"} catch(e) {",
+            "\t",
+			"} finally {",
+            "\t",
+            "}"
+		],
+		"description": "vant typescript template",
+	},
+    "trycatch": {
+		"prefix": "tc",
+		"body": [
+			"try{",
+            "\t",
+			"} catch(e) {",
+            "\t",
+			"}",
+		],
+		"description": "vant typescript template",
+	},
+}
